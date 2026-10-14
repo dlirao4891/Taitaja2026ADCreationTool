@@ -1,0 +1,18 @@
+{
+    "users" : [
+        {
+            "name": "Alice Smith",
+            "password": "P@ssw0rd1", 
+            "group": "Domain Admins"
+        },
+        {
+            "name": "Carlos Gomez",
+            "password": "P@ssw0rd1", 
+            "group": "Domain Admins"
+        },{
+            "name": "John Doe",
+            "password": "P@ssw0rd1", 
+            "group": "Domain Admins"
+        }
+    ]
+}
